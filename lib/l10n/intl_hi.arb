@@ -1,0 +1,10 @@
+{
+  "@@locale": "hi",
+
+  "title": "ऑटो रूट",
+  "simple_route": "सरल मार्ग",
+  "send_data_to_route": "डेटा को नए रूट पर भेजें",
+  "get_data_from_popped": "पॉप्ड रूट से डेटा प्राप्त करें",
+  "received_data": "रूट से प्राप्त डेटा नीचे प्रदर्शित किया जाएगा",
+  "auto_route_back": "ऑटो रूट वापस"
+}

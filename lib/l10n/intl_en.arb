@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "title": "Auto Route",
+  "simple_route": "Simple Route",
+  "send_data_to_route": "Send Data to new Route",
+  "get_data_from_popped": "Get Data from popped Route",
+  "received_data": "Received Data from Route will be displayed below",
+  "auto_route_back": "Auto Route back"
+
+}
